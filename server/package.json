@@ -1,0 +1,16 @@
+{
+  "name": "splitsmart-server",
+  "version": "1.0.0",
+  "description": "Backend for SplitSmart - group expense tracker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Rishi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
